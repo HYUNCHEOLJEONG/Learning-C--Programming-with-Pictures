@@ -1,6 +1,10 @@
- ####Learning C++ Programming with Pictures: 프로젝트 개요
+
+ # Learning C++ Programming with Pictures: 프로젝트 개요
 
  ---
  ## 프로젝트 소개
 
  ----
+2025년 2월 10일부터 3월 13일까지, 저는 Learning C++ Programming with Pictures에서 제공하는 문제들을 체계적으로 해결하며 C++ 프로그래밍의 핵심 개념을 깊이 탐구했습니다. 
+각 문제를 독립적으로 구현하며 복잡한 주제들을 명확히 이해하는 데 집중하였고, 고급 C++ 기능까지 적극적으로 활용하여 문제 해결 역량을 극대화했습니다.
+---
